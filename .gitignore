@@ -1,0 +1,14 @@
+# Variáveis de ambiente e credenciais
+.env
+
+# Ambiente Virtual Python
+venv/
+
+# Pastas de relatórios gerados (não versionamos arquivos dinâmicos)
+relatorios/
+*.pdf
+
+# Arquivos temporários do Python e logs
+__pycache__/
+*.log
+erro_execucao.txt
